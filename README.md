@@ -1,0 +1,2 @@
+# senggoku
+Go Fiber boilerplate
